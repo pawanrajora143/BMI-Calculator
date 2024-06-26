@@ -155,3 +155,17 @@ form input{
 }
 
 }
+
+
+@media only screen and (max-width: 600px) {
+    .form-cover {
+    width: 90%;
+    height: auto;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+}
